@@ -1,0 +1,9 @@
+pyqt5
+matplotlib
+pyserial
+bleak
+pandas
+numpy
+scipy
+QDarkStyle
+QtAwesome
